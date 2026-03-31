@@ -16,8 +16,7 @@ The dataset contains movie titles, plot summaries, and their corresponding genre
 2. Feature extraction using TF-IDF / Word Embeddings
 3. Model selection: Naive Bayes, Logistic Regression, or SVM
 4. Model training and evaluation using accuracy, precision, recall
-5. ### **7. Results / Observations** (Optional but good for portfolio)
-- Add a small summary of model performance:
+5. ### **7. Results / Observations** 
 ```markdown
 ## Results
 - Accuracy: 85%
